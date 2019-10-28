@@ -6,3 +6,7 @@ json Web Token AuthApi
 
 ## Branch master build status - azure devops
 [![Build Status](https://abrandaol.visualstudio.com/jwtAuthApi/_apis/build/status/alexandrebl.jwtAuthApi?branchName=master)](https://abrandaol.visualstudio.com/jwtAuthApi/_build/latest?definitionId=1&branchName=master)
+
+
+
+.
